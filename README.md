@@ -270,6 +270,8 @@ This project demonstrates practical implementation of:
 
 Built as part of an AI/ML internship project at SafeX Solutions.
 
-##👩‍💻 Author
+## **👩‍💻 Author**
 
-Saliha Bibi
+**Saliha Bibi**
+
+
