@@ -269,3 +269,7 @@ This project demonstrates practical implementation of:
 * Automated report generation
 
 Built as part of an AI/ML internship project at SafeX Solutions.
+
+##👩‍💻 Author
+
+Saliha Bibi
