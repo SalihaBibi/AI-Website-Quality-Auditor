@@ -1,0 +1,74 @@
+{
+    "website": "https://www.starbucks.com",
+    "success": true,
+    "status_code": 200,
+    "response_time": 10.16,
+    "seo": {
+        "meta_title": "Starbucks Coffee Company",
+        "meta_description": "Explore our menu of handcrafted drinks, order ahead, sign up for Starbucks® Rewards, manage your gift card and more.",
+        "h1_count": 0
+    },
+    "structure": {
+        "pages_found": 5,
+        "internal_links": 29,
+        "pages_checked": [
+            "https://www.starbucks.com",
+            "https://www.starbucks.com/about-us",
+            "https://www.starbucks.com/about-us/accessibility",
+            "https://www.starbucks.com/account/cards",
+            "https://www.starbucks.com/account/create"
+        ]
+    },
+    "contact": {
+        "contact_form": false,
+        "contact_information": [
+            "contact",
+            "customer service",
+            "support"
+        ]
+    },
+    "ctas": {
+        "count": 6,
+        "detected": [
+            "menu",
+            "rewards",
+            "join now",
+            "order now",
+            "contact us",
+            "delivery"
+        ]
+    },
+    "social_media": {
+        "count": 4,
+        "links": [
+            "https://facebook.com/starbucks",
+            "https://instagram.com/starbucks",
+            "https://www.youtube.com/starbucks",
+            "https://x.com/starbucks/"
+        ]
+    },
+    "images": {
+        "total_images": 3,
+        "images_with_alt": 3,
+        "alt_coverage": 100.0
+    },
+    "scores": {
+        "performance": 0,
+        "seo": 12,
+        "structure": 10,
+        "accessibility": 15,
+        "cta": 10,
+        "social_media": 10,
+        "contact": 6,
+        "availability": 10,
+        "total": 73
+    },
+    "issues": [
+        "Website response time is above 4 seconds.",
+        "No H1 heading was detected in the fetched HTML."
+    ],
+    "recommendations": [
+        "Improve website loading performance by optimizing images, scripts, and resources.",
+        "Add one clear H1 heading describing the main purpose of the page."
+    ]
+}

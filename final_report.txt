@@ -1,0 +1,138 @@
+============================================================
+AI WEBSITE QUALITY AUDIT REPORT
+============================================================
+
+WEBSITE INFORMATION
+------------------------------------------------------------
+Website: https://www.starbucks.com
+Status Code: 200
+Response Time: 10.16 seconds
+
+OVERALL QUALITY SCORE
+------------------------------------------------------------
+Overall Score: 73 / 100
+
+CATEGORY SCORES
+------------------------------------------------------------
+Performance: 0
+SEO: 12
+Structure: 10
+Accessibility: 15
+CTA: 10
+Social Media: 10
+Contact: 6
+Availability: 10
+
+SEO & STRUCTURE DATA
+------------------------------------------------------------
+Meta Title: Starbucks Coffee Company
+Meta Description: Explore our menu of handcrafted drinks, order ahead, sign up for Starbucks® Rewards, manage your gift card and more.
+H1 Count: 0
+Internal Links: 29
+Pages Checked: 5
+
+ACCESSIBILITY DATA
+------------------------------------------------------------
+Total Images: 3
+Images With Alt Text: 3
+Alt Text Coverage: 100.0%
+
+FOOD BUSINESS FEATURES
+------------------------------------------------------------
+CTA Count: 6
+Contact Form: False
+Social Links: 4
+
+DETECTED ISSUES
+------------------------------------------------------------
+- Website response time is above 4 seconds.
+- No H1 heading was detected in the fetched HTML.
+
+RULE-BASED RECOMMENDATIONS
+------------------------------------------------------------
+- Improve website loading performance by optimizing images, scripts, and resources.
+- Add one clear H1 heading describing the main purpose of the page.
+
+============================================================
+AI-POWERED ANALYSIS
+============================================================
+### 1. Executive Summary
+
+The website received an automated quality score of 73/100 based on the rule-based audit.
+The measured response time was 10.16 seconds.
+The auditor checked 5 sampled pages and detected 29 internal links.
+
+### 2. Verified Strengths
+
+- Image alt-text coverage: 100.0%.
+- Detected CTAs: 6.
+- Detected social-media links: 4.
+- A meta title was detected.
+- A meta description was detected.
+
+### 3. Verified Issues
+
+- Website response time is above 4 seconds.
+- No H1 heading was detected in the fetched HTML.
+
+### 4. SEO Analysis
+
+- Meta title detected: True.
+- Meta description detected: True.
+- H1 count detected: 0.
+These measurements are based on the fetched rendered HTML.
+
+### 5. Performance Analysis
+
+- Measured response time: 10.16 seconds.
+This measurement represents the time taken by the automated browser audit to load and process the website.
+
+### 6. Accessibility Analysis
+
+- Total detected images: 3.
+- Images with alt text: 3.
+- Alt-text coverage: 100.0%.
+These measurements are based on image elements detected in the fetched rendered HTML.
+
+### 7. User Experience Analysis
+
+- Internal links detected: 29.
+- Sampled pages checked: 5.
+- Contact form detected: False.
+These results describe elements detected by the automated audit.
+
+### 8. Food Business / Conversion Analysis
+
+- Detected CTA count: 6.
+- Detected social links: 4.
+- Detected CTA examples:
+  - menu
+  - rewards
+  - join now
+  - order now
+  - contact us
+  - delivery
+
+### 9. Recommended Improvements
+
+- Improve website loading performance by optimizing images, scripts, and resources.
+- Add one clear H1 heading describing the main purpose of the page.
+
+### 10. Priority Actions
+
+HIGH
+- Review: Website response time is above 4 seconds.
+- Review: No H1 heading was detected in the fetched HTML.
+
+MEDIUM
+- Improve website loading performance by optimizing images, scripts, and resources.
+- Add one clear H1 heading describing the main purpose of the page.
+
+LOW
+- Continue monitoring website quality metrics during future audits.
+
+NOTE: Gemini AI analysis was temporarily unavailable. This report section was generated from the rule-based audit data instead.
+
+============================================================
+END OF REPORT
+============================================================
